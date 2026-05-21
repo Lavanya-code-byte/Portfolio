@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="pandas-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#130754" />
+      <stop offset="100%" stop-color="#0f023c" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#pandas-grad)" />
+  <!-- Ears -->
+  <circle cx="30" cy="28" r="12" fill="#110544" />
+  <circle cx="70" cy="28" r="12" fill="#110544" />
+  <!-- Head -->
+  <rect x="20" y="32" width="60" height="42" rx="21" fill="#ffffff" />
+  <!-- Eyes -->
+  <ellipse cx="38" cy="48" rx="8" ry="10" fill="#130754" />
+  <ellipse cx="62" cy="48" rx="8" ry="10" fill="#130754" />
+  <circle cx="38" cy="46" r="3" fill="#ffffff" />
+  <circle cx="62" cy="46" r="3" fill="#ffffff" />
+  <!-- Nose -->
+  <polygon points="46,56 54,56 50,61" fill="#ff7f50" />
+</svg>
