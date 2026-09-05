@@ -1,0 +1,11 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Invoice Sheet with Fold -->
+  <path d="M5 4C5 2.89543 5.89543 2 7 2H17L23 8V24C23 25.1046 22.1046 26 21 26H7C5.89543 26 5 25.1046 5 24V4Z" stroke="#ffffff" stroke-width="2" stroke-linejoin="round" />
+  <path d="M17 2V8H23" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Data scan lines -->
+  <line x1="9" y1="12" x2="15" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <line x1="9" y1="16" x2="19" y2="16" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <line x1="9" y1="20" x2="14" y2="20" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <!-- Automation Speed Spark / Dot -->
+  <circle cx="18" cy="20" r="2" fill="#ffffff" />
+</svg>

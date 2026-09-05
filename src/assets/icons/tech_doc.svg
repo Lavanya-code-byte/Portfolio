@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="td-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#475569" />
+      <stop offset="100%" stop-color="#64748B" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#td-grad)" />
+  <!-- Document with code brackets -->
+  <rect x="26" y="20" width="48" height="60" rx="6" fill="#ffffff" />
+  <!-- Document fold -->
+  <path d="M60 20 L74 34 H60 Z" fill="#E2E8F0" />
+  <!-- Code brackets & doc lines -->
+  <text x="50" y="46" dominant-baseline="central" text-anchor="middle" font-family="monospace" font-weight="900" font-size="16" fill="#475569">&lt;/&gt;</text>
+  <line x1="36" y1="58" x2="64" y2="58" stroke="#94A3B8" stroke-width="3" stroke-linecap="round" />
+  <line x1="36" y1="66" x2="56" y2="66" stroke="#94A3B8" stroke-width="3" stroke-linecap="round" />
+</svg>

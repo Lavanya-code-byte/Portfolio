@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="sqlo-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#0F766E" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#sqlo-grad)" />
+  <!-- Database disk stack with lightning bolt -->
+  <ellipse cx="44" cy="30" rx="20" ry="6" fill="#ffffff" />
+  <path d="M 24,30 L 24,44 A 20,6 0 0 0 64,44 L 64,30 Z" fill="#ffffff" opacity="0.8" />
+  <path d="M 24,44 L 24,58 A 20,6 0 0 0 64,58 L 64,44 Z" fill="#ffffff" opacity="0.6" />
+  <path d="M 24,58 L 24,72 A 20,6 0 0 0 64,72 L 64,58 Z" fill="#ffffff" opacity="0.4" />
+  <!-- Speed Lightning Bolt -->
+  <polygon points="68,22 52,48 64,48 56,76 80,44 68,44" fill="#FDE047" stroke="#ffffff" stroke-width="2" />
+</svg>

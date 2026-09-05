@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="numpy-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4d77cf" />
+      <stop offset="100%" stop-color="#013243" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#numpy-grad)" />
+  <!-- Isometric Grid/Cubes -->
+  <path d="M 50,22 L 80,38 L 50,54 L 20,38 Z" fill="#5c8aed" />
+  <path d="M 20,38 L 50,54 L 50,80 L 20,64 Z" fill="#0c326e" />
+  <path d="M 50,54 L 80,38 L 80,64 L 50,80 Z" fill="#1b5a9e" />
+  <!-- Monogram text overlay -->
+  <text x="50%" y="54%" dominant-baseline="central" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="28" fill="#ffffff" style="letter-spacing: 1px;">NP</text>
+</svg>

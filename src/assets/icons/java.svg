@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="java-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ea2d2e" />
+      <stop offset="100%" stop-color="#5382a1" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="#ffffff" />
+  <!-- Java Coffee Cup Steam & Cup -->
+  <path d="M48 20 C42 28 56 34 46 42" stroke="#ea2d2e" stroke-width="4" fill="none" stroke-linecap="round" />
+  <path d="M56 18 C50 27 64 33 54 42" stroke="#5382a1" stroke-width="4" fill="none" stroke-linecap="round" />
+  <!-- Cup Base -->
+  <path d="M30 48 L32 68 C33 76 67 76 68 68 L70 48 Z" fill="#5382a1" />
+  <!-- Cup Handle -->
+  <path d="M68 52 C76 52 76 64 67 64" stroke="#5382a1" stroke-width="4" fill="none" stroke-linecap="round" />
+  <!-- Saucer -->
+  <ellipse cx="50" cy="80" rx="26" ry="4" fill="#ea2d2e" />
+</svg>

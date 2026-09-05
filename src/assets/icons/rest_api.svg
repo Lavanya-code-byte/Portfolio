@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="rest-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#rest-grad)" />
+  <!-- API exchange arrows & brackets -->
+  <text x="50" y="42" dominant-baseline="central" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="24" fill="#ffffff" letter-spacing="1">API</text>
+  <!-- Left to Right Arrow -->
+  <path d="M26 62 L64 62 M56 56 L64 62 L56 68" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <!-- Right to Left Arrow -->
+  <path d="M74 74 L36 74 M44 68 L36 74 L44 80" stroke="#7dd3fc" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>

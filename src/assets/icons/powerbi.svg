@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#FFFBEB" />
+  <!-- Power BI Bar Hierarchy -->
+  <rect x="24" y="52" width="12" height="28" rx="3" fill="#E6AD00" />
+  <rect x="38" y="40" width="12" height="40" rx="3" fill="#F2C811" />
+  <rect x="52" y="28" width="12" height="52" rx="3" fill="#E6AD00" />
+  <rect x="66" y="16" width="12" height="64" rx="3" fill="#D99B00" />
+</svg>

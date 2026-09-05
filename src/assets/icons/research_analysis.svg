@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="ra-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#C026D3" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#ra-grad)" />
+  <!-- Scientific Beaker with Bubbles & Insights -->
+  <path d="M42 26 H58 V38 L72 68 C75 74 71 80 64 80 H36 C29 80 25 74 28 68 L42 38 Z" fill="none" stroke="#ffffff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+  <!-- Liquid inside -->
+  <path d="M34 62 L38 72 C39 74 41 75 43 75 H57 C59 75 61 74 62 72 L66 62 Z" fill="#FDE047" opacity="0.8" />
+  <!-- Bubbles -->
+  <circle cx="48" cy="50" r="3" fill="#ffffff" />
+  <circle cx="56" cy="44" r="2" fill="#ffffff" />
+  <circle cx="44" cy="62" r="2.5" fill="#ffffff" />
+</svg>

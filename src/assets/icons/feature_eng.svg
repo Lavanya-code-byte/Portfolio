@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="fe-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#fe-grad)" />
+  <!-- Data Table with Gear transforming columns -->
+  <rect x="20" y="24" width="60" height="52" rx="6" fill="#ffffff" />
+  <line x1="20" y1="40" x2="80" y2="40" stroke="#E2E8F0" stroke-width="2" />
+  <line x1="40" y1="24" x2="40" y2="76" stroke="#E2E8F0" stroke-width="2" />
+  <line x1="60" y1="24" x2="60" y2="76" stroke="#E2E8F0" stroke-width="2" />
+  <!-- Gear badge overlay -->
+  <circle cx="68" cy="62" r="14" fill="#F59E0B" />
+  <circle cx="68" cy="62" r="6" fill="#ffffff" />
+</svg>
